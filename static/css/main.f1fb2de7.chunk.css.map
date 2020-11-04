@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,UACE,UACF,CACA,KACE,QAAS,CACT,SAAU,CACV,gCAAkC,CAClC,wBACF","file":"main.f1fb2de7.chunk.css","sourcesContent":["html, body {\n  width: 100%;\n}\nbody {\n  margin: 0;\n  padding: 0;\n  font-family: 'Spartan', sans-serif;\n  background-color: #F0FAFB;\n}\n\n"]}
