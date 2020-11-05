@@ -3,7 +3,8 @@ import { FilterContext } from "../context/context-filter";
 import styled from "styled-components";
 
 const Wraper = styled.div`
-  display: ${(props) => (props.isVisible ? "flex" : "none")};
+  display: flex;
+  visibility: ${(props) => (props.isVisible ? "visible" : "hidden")}; 
   background-color: #ffffff;
   width: 100%;
   text-align: center;

@@ -157,7 +157,7 @@ export default function JobItem({ item }) {
 
   return (
     <Wrapper featured={featured}>
-      <Logo src={require(`../${logo}`).default} />
+      <Logo src={require(`../${logo}`).default} alt="logo" />
       <InfoBox>
         <Top>
           <div>
